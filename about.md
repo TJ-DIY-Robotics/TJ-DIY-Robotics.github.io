@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+We are all robotics enthusiast from China! We will take our focus on building robots for kids. We wish that more guys would like to work together with us. Looking forward to more progress.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+We will make some open source DIY projects and tutorials to start learning about Robotics. Each tutorial comes with detailed step by step instructions, and is accompanied with pictures and videos to help you understand better about the various platforms used for Robotics.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yhlshareware@126.com](mailto:yhlshareware@126.com)
