@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Building AI Robotics by Thales and Jeff
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: We have a lot of fun with making open source robotics
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars2.githubusercontent.com/u/32348387?v=4&s=40
 
 #
 # Flags below are optional
